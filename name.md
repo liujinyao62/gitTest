@@ -7,3 +7,6 @@
 重新创建了ssh 建立了本地仓库与远程仓库的链接
 
 new id
+
+
+ceshi git fetch
